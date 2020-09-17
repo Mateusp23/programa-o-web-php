@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;    
+}
+
+header {
+    background-color: black !important;
+    color: white !important;
+    text-align: center !important;
+    border-radius: 0 !important;
+}
+
+footer {
+    background-color: black !important;
+    color: white !important;
+    text-align: center !important;
+    border-radius: 0 !important;
+}
+
+h1 {
+    padding-left: 20px !important;
+    background-color: rgb(85, 148, 207) !important;
+}
+
+form-control{
+    width: 30% !important;
+}
+p {
+    padding: 20px !important;
+}

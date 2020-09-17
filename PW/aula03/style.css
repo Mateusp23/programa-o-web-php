@@ -1,0 +1,82 @@
+body {
+    background-color: whitesmoke !important;
+}
+
+h1 {
+    text-align: center !important;
+    font-size: 25px !important;
+    color: whitesmoke !important;
+}
+
+h2 {
+    padding-top: 25px;
+    text-align: center !important;
+    font-size: 16px !important;
+    color: whitesmoke !important;
+}
+
+h3 {
+    text-align: center !important;
+    font-size: 20px !important;
+    padding-top: 10px;
+    color: grey;
+}
+
+header {
+    background-color: #008060 !important;
+    border-radius: 0 !important;
+}
+
+.image {
+    text-align: center !important;
+}
+
+#fotoMateus {
+    width: 33%;
+    height: 30%;
+    border-radius: 70% !important;
+}
+
+.texto1 {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    text-align: center !important;
+}
+
+.colors {
+    background-color: #334d4d !important;
+    color: whitesmoke !important;
+    padding-bottom: 20px;
+}
+
+.col-md-4 {
+    text-align: center !important;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#comp1 {
+    width: 55%;
+    height: 60%;
+}
+
+#comp2 {
+    width: 60%;
+    height: 65%;
+}
+
+#comp3 {
+    width: 65%;
+    height: 75%;
+}
+
+.redes {
+    text-align: center !important;
+}
+footer {
+    background-color: #334d4d !important;
+    color: whitesmoke;
+    border-radius: 0 !important;
+}
